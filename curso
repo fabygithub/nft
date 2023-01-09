@@ -115,6 +115,24 @@ cual es el tamaño de un nft
 3.000 px o menos.
 File types supported: JPG, PNG, GIF, SVG, MP4, WEBM, MP3, WAV, OGG, GLB, GLTF. Max size: 100 MB
 crear una nueva collecion
+Cómo crear un NFT? Con mi Python script gratis!
+https://github.com/SoundmartellTutorials/Crear-NFT-
+
+script
+https://github.com/SoundmartellTutorials/Crear-NFT-
+no moduled name pygame
+python -m pip install pygame
+https://opensea.io/collection/feetpixwtf?search[sortAscending]=true&search[sortBy]=UNIT_PRICE
+C:\Users\USUARIO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\Scripts
+ModuleNotFoundError: No module named 'encodings'
+Fatal Python error: initfsencoding: unable to load the file system codec
+How to Install Pygame on Windows ? - GeeksforGeeks
+"pip" no se reconoce como un comando interno o externo
+https://es.stackoverflow.com/questions/348101/error-al-instalar-paquetes-pip-no-se-reconoce-como-un-comando-interno-o-exte
+C:\Users\USUARIO\AppData\Local\Microsoft\WindowsApps\python.exe
+path 2 clicks
+C:\Users\USUARIO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11
+
 
 
 
