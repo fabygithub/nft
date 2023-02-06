@@ -1,4 +1,88 @@
-06-02-2023
+0s6-02-2023
 solseum nft generator
 download zip
 extraer zip
+open folder in visual studio code
+pip install -r requirements.txt
+
+install these libraries
+numpy==1.21.2
+natsort==7.1.1
+pillow==8.3.2
+
+folders
+input/assets
+add images.png
+different elements
+for example
+hats
+faces
+etc
+
+assets :
+background
+body
+hat
+glasses & color
+mouth & color
+
+
+template.json
+
+"name" : "Glass Card",
+"symbol" : "Gc",
+"description" : "Cutest squares on solana Network!!",
+"seller_free_basis_points"; 250,
+"image" : "image.png"
+"external_url": "",
+"name" "Glass",
+"family" : "Card!"
+
+metamask
+"address" : ""
+
+nft.py
+ctrl + c
+search 600
+enter the size of the photos
+
+1400 x 1080
+
+open window power shell
+
+python main.py -p 30 -w 7 -r 1
+
+creating 30 nft image and metadata
+in the folder public_mint_assets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
